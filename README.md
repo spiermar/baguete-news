@@ -4,13 +4,13 @@ Localized news aggregator based on [drum](https://github.com/stephenmcd/drum), [
 
 ## Requirements
 
-'''
+```bash
 $ pip install -r requirements.txt
-'''
+```
 
 ## Running
 
-'''
+```bash
 $ python manage.py createdb --noinput
 $ python manage.py runserver
-'''
+```
